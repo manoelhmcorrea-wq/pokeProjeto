@@ -1,4 +1,5 @@
 import { PokemonResumo } from "../models/pokemon";
+
 export class CatalogoPokemon {
   private pokemons: PokemonResumo[] = [];
 

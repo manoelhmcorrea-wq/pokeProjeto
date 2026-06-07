@@ -1,6 +1,6 @@
 
 import {APIError} from '../models/customError';
-import {PokemonApiResponse, PokemonIdentifier,PokemonResumo} from '../models/pokemon';
+import {PokemonApiResponse,PokemonResumo} from '../models/pokemon';
 export class PokeApiService {
   private readonly baseUrl: string;
 

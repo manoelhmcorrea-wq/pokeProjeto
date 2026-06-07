@@ -21,7 +21,7 @@ export interface PokemonResumo{
     peso:number;
 }
 
-// representaçã odo produto dentro do pcbox
+/* representaçã odo produto dentro do pcbox
 export interface LocalPokemon extends PokemonApiResponse{
     addedAt : string
 }
@@ -29,3 +29,4 @@ export interface LocalPokemon extends PokemonApiResponse{
 export type PokemonIdentifier = number | string
 
 //representa visualização resumida só para o que é pontual => type exemplo = Pick<Pokemon, 'id' | ' name' | etc>
+*/
