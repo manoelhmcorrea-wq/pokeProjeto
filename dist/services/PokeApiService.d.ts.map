@@ -1,0 +1,1 @@
+{"version":3,"file":"PokeApiService.d.ts","sourceRoot":"","sources":["../../src/services/PokeApiService.ts"],"names":[],"mappings":"AACA,OAAO,EAAoB,aAAa,EAAC,MAAM,mBAAmB,CAAC;AACnE,qBAAa,cAAc;IACzB,OAAO,CAAC,QAAQ,CAAC,OAAO,CAAS;gBAErB,OAAO,GAAE,MAAoC;IAI5C,aAAa,CAAC,QAAQ,EAAC,MAAM,GAAG,OAAO,CAAC,aAAa,GAAG,IAAI,CAAC;CAuE3E"}
