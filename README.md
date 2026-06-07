@@ -62,16 +62,19 @@ npm run dev
 Estrutura do projeto
 pokedex-typescript-lite/
 
-│
+
 
 ├── src/
-
-│   ├── main.ts
-│   ├── types.ts
-│   ├── pokeApi.ts
-│   └── catalogo.ts
 │
-
+│   ├── main.ts
+│   ├── classes/
+│   │        └── CatalogoPokemon.ts
+│   ├── models/
+│   │        ├──ApiResponse.ts
+│   │        └──pokemon.ts
+│   └──services/
+│            └──PokeApiService.ts
+│
 ├── package.json
 ├── tsconfig.json
 └── README.md
