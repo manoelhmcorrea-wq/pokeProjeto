@@ -12,6 +12,15 @@ export interface PokemonApiResponse {
   weight: number;
   types: PokemonType[];
 }
+
+export interface PokemonResumo{
+    id:number;
+    nome:string;
+    tipos:string[];
+    altura:number;
+    peso:number;
+}
+
 // representaçã odo produto dentro do pcbox
 export interface LocalPokemon extends PokemonApiResponse{
     addedAt : string
